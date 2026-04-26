@@ -8,24 +8,9 @@ enableRobotsTXT= true
 [[module.imports]]
 path = 'github.com/alex-shpak/hugo-book'
 
-[menu]
-[[menu.home]]
-    name = 'About'
-    pageRef = '/about/'
-    weight = 1
-
-[[menu.home]]
-    name = 'Work'
-    pageRef = '/work/'
-    weight = 2
-
-[[menu.home]]
-    name = 'Blog'
-    pageRef = '/posts/'
-    weight = 3
 
 [params]
 bookLogo = "littlelogo.png"
 BookToC = false
 bookFavicon = "littlelogo.png"
-
+bookSection = "docs"
