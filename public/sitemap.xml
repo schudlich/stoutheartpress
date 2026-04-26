@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://github.io/schudlich/stoutheartpress/docs/about/</loc>
-  </url><url>
-    <loc>https://github.io/schudlich/stoutheartpress/docs/work/</loc>
-  </url><url>
-    <loc>https://github.io/schudlich/stoutheartpress/categories/</loc>
-  </url><url>
-    <loc>https://github.io/schudlich/stoutheartpress/docs/</loc>
-  </url><url>
-    <loc>https://github.io/schudlich/stoutheartpress/</loc>
-  </url><url>
-    <loc>https://github.io/schudlich/stoutheartpress/tags/</loc>
-  </url>
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>http://localhost:1313/schudlich/stoutheartpress/docs/about/</loc></url><url><loc>http://localhost:1313/schudlich/stoutheartpress/docs/work/</loc></url><url><loc>http://localhost:1313/schudlich/stoutheartpress/categories/</loc></url><url><loc>http://localhost:1313/schudlich/stoutheartpress/docs/</loc></url><url><loc>http://localhost:1313/schudlich/stoutheartpress/</loc></url><url><loc>http://localhost:1313/schudlich/stoutheartpress/tags/</loc></url></urlset>
