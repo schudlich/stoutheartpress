@@ -12,7 +12,7 @@ description: 'Stout Heart Press Home'
 
 ### Contact Tanner via email: tanner@stoutheartpress.com
 
-![SHP Logo](printersdevice.png):
+![SHP Logo](printersdevice.png)
 
 
 
