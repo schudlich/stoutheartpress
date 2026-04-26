@@ -3,6 +3,7 @@ locale = 'en-us'
 title = 'Stout Heart Press'
 copyright = '2026, Tanner Schudlich'
 
+
 [module]
 [[module.imports]]
 path = 'github.com/alex-shpak/hugo-book'
