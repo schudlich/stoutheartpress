@@ -2,7 +2,7 @@ baseURL = 'https://github.io/schudlich/stoutheartpress/'
 locale = 'en-us'
 title = 'Stout Heart Press'
 copyright = '2026, Tanner Schudlich'
-
+enableRobotsTXT= true
 
 [module]
 [[module.imports]]
@@ -10,8 +10,5 @@ path = 'github.com/alex-shpak/hugo-book'
 
 [params]
 bookLogo = "littlelogo.png"
-[menu]
-[[home]]
-name = "About"
-pageRef = "content/about/_index.md/"
-weight= 1
+BookToC = false
+bookFavicon = "littlelogo.png"

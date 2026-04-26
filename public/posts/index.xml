@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Stout Heart Press</title>
-    <link>http://localhost:1313/schudlich/stoutheartpress/</link>
-    <description>Recent content in Home on Stout Heart Press</description>
+    <title>Posts on Stout Heart Press</title>
+    <link>http://localhost:1313/schudlich/stoutheartpress/posts/</link>
+    <description>Recent content in Posts on Stout Heart Press</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2026, Tanner Schudlich</copyright>
     <lastBuildDate>Sun, 26 Apr 2026 08:28:00 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/schudlich/stoutheartpress/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/schudlich/stoutheartpress/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Steel Yourself Against Despair!</title>
       <link>http://localhost:1313/schudlich/stoutheartpress/posts/steelyourself/</link>

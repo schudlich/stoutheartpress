@@ -1,6 +1,7 @@
 ---
 title: "Work"
 weight: 2
+type: docs
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
