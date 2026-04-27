@@ -6,7 +6,7 @@ description: 'Stout Heart Press Home'
 
 # **stout-hearted** *adj.* -- brave, determined, resolute.
 
-## Stout Heart Press is a private press run by Tanner Schudlich currently based in Ann Arbor, MI.
+## Stout Heart Press is a private press run by Tanner Schudlich, who is currently based in Ann Arbor, MI.
 
 ## Specializing in letterpress, linocut, and woodcut printing, Tanner's work focuses on finding hope in hard times, resisting despair, and honoring the memory of those who have come before us.
 

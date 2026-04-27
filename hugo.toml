@@ -8,6 +8,8 @@ enableRobotsTXT= true
 [[module.imports]]
 path = 'github.com/alex-shpak/hugo-book'
 
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
 bookLogo = "littlelogo.png"
