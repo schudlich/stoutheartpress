@@ -10,8 +10,9 @@ description: 'Stout Heart Press Home'
 
 ## Specializing in letterpress, linocut, and woodcut printing, Tanner's work focuses on finding hope in hard times, resisting despair, and honoring the memory of those who have come before us.
 
-### Contact Tanner via email: tanner@stoutheartpress.com
+### Contact Tanner via email: stoutheartpress@gmail.com
 
+# 
 ![SHP Logo](printersdevice.png)
 
 
