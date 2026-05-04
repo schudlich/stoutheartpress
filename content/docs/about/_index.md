@@ -27,3 +27,7 @@ By the middle of my graduate program, book binding, letterpress, and linocut pri
 ### 2026
 Over the past year I have spent as much time as possible working in the studio, have taught several letterpress classes and tutored individual students working on book binding projects.
 
+In April, I purchased a Vandercook 099 from Paul Moxon and began collecting type and tools to build my personal collection.
+
+## **The Press**
+
