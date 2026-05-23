@@ -25,9 +25,15 @@ type: docs
 ### *Save Each Other.*
 ![Save Each Other](save_each_other.JPG)
 
-This print is a part of the *Signs of the Times* series, which is inspired by the simple boldness of protest signs bearing messages for any historical moment.
+*Letterpress, Rubber-based ink on paper*
+
+This print is a part of the *Signs of the Times* series, which is inspired by the simple boldness of protest signs bearing messages for any historical moment. Wood type for this print was sourced from the University of Michigan Book Arts Studio collection.
 
 ***
 
 ## *Clematis*
 ![Clematis](clematis.JPG)
+
+*Multiblock Linocut, Oil-based ink on paper*
+
+Inspired by the clematis growing along the side of my grandmother's house. She enjoyed viewing them from the couch in her den. I began carving these blocks on what would have been her 86th birthday.
