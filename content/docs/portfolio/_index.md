@@ -32,7 +32,7 @@ Split-fountain signage advertising the 2026 Book Arts Studio Showcase at the Uni
 ## *Signs of the Times* Series
 
 ### *Save Each Other.*, 2026
-![Save Each Other](resizeSEO.JPG)
+![Save Each Other](seo_prod_resize.JPG)
 
 *Letterpress, Rubber-based ink on paper*
 
@@ -79,3 +79,25 @@ Inspired by the words of Gandalf to Frodo in *the Fellowship of the Ring* by J.R
 *Letterpress, Rubber-based ink on paper*
 
 Inspired by the words of Eowyn to Merry in Peter Jackson's film *Lord of the Rings: Return of the King*.
+
+***
+
+## *Sashiko-Inspired* Series
+
+A series of linocut prints inspired by my personal experiences learning the Japanese embroidery technique of *sashiko*.
+
+### *Asanoha Pattern*, 2025
+
+![Asanoha Pattern](asanoha_prod_resize.JPG)
+
+*Linocut, Rubber-based ink on paper*
+
+A mounted linocut block with a hand-drafted *asanoha* (hemp leaf) inspired motif.
+
+### *Shippo-tsunagi Pattern*, 2025
+
+![Shippo-tsunagi Pattern](shippo_prod_resize.JPG)
+
+*Linocut, Rubber-based ink on paper*
+
+A mounted linocut block with a hand-drafted *shippo-tsunagi* (Seven Treasures) inspired motif.
