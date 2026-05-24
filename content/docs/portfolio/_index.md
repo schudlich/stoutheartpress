@@ -27,6 +27,8 @@ type: docs
 
 Split-fountain signage advertising the 2026 Book Arts Studio Showcase at the Univeristy of Michigan Book Arts Studio. This exhibit highlighted work created in the studio by community members over the 2025-2026 academic year. 
 
+***
+
 ## *Signs of the Times* Series
 
 ### *Save Each Other.*, 2026
