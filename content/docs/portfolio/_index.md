@@ -94,7 +94,7 @@ A series of linocut prints inspired by my personal experiences learning the Japa
 
 A mounted linocut block with a hand-drafted *asanoha* (hemp leaf) inspired motif.
 
-### *Shippo-tsunagi Pattern*, 2025
+### *Shippo-tsunagi Pattern*, 2026
 
 ![Shippo-tsunagi Pattern](shippo_prod_resize.JPG)
 
