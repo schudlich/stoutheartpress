@@ -16,3 +16,4 @@ bookLogo = "littlelogo.png"
 BookToC = false
 bookFavicon = "littlelogo.png"
 bookSection = "docs"
+selfHosted = true

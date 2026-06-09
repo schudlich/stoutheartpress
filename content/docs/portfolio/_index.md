@@ -20,6 +20,21 @@ type: docs
 
 {{< button href="https://www.etsy.com/shop/StoutHeartPress" >}}Stout Heart Press Shop{{< /button >}}
 
+## *Book Arts Tools, 2026*
+![Book Arts Tools Block](tools_block_resize.JPG)
+![Book Arts Tools Process](tools_process_resize.JPG)
+
+*Linocut, Oil-based ink on paper*
+
+A still life of my personal tools that I use for my book arts projects for Stout Heart Press.
+
+## *2026 U-M Book Arts Studio Summer Broadside, 2026*
+![BAS Summer Broadside 2026](BASBroadside_resize.JPG)
+
+*Letterpress, Rubber-based ink on paper*
+
+Split-fountain signage advertising the 2026 Book Arts Summer Studio hours at the Univeristy of Michigan Book Arts Studio.
+
 ## *2026 U-M Book Arts Studio Showcase*, 2026
 ![BAS Showcase Sign 2026](BAS_show_resize.JPG)
 
@@ -40,6 +55,8 @@ Split-fountain signage advertising the 2026 Book Arts Studio Showcase at the Uni
 
 This print is a part of the *Signs of the Times* series, which is inspired by the simple boldness of protest signs bearing messages for any historical moment. Wood type for this print was sourced from the University of Michigan Book Arts Studio collection.
 
+**Featured in the 2026 Dzanc House Queer Show Gallery Exhibition*
+
 ***
 
 ## *Clematis*, 2026
@@ -50,6 +67,8 @@ This print is a part of the *Signs of the Times* series, which is inspired by th
 *[Open Edition]*
 
 Inspired by the clematis growing along the side of my grandmother's house. She enjoyed viewing them from the couch in her den. I began carving these blocks on what would have been her 86th birthday.
+
+**Featured in the 2026 Dzanc House Queer Show Gallery Exhibition*
 
 ***
 

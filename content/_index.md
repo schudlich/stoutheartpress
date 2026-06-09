@@ -12,7 +12,10 @@ description: 'Stout Heart Press Home'
 
 ### Contact Tanner via email: stoutheartpress@gmail.com
 
-# 
+## Visit Stout Heart Press on Etsy
+
+{{< button href="https://www.etsy.com/shop/StoutHeartPress" >}}Stout Heart Press Shop{{< /button >}}
+
 ![SHP Logo](printersdevice.png)
 
 
